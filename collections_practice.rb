@@ -43,7 +43,7 @@ end
 
 def add_s(array)
   array.each_with_index.collect{|element| element + "s"}
-  array[1].
+  array[1].delete
 end
 
 
