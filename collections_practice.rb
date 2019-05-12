@@ -29,6 +29,7 @@ def kesha_maker(array)
     word = element.split("")
     new_array << word
 end
+new_array
 end
 
 def find_a(array)
